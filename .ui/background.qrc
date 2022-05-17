@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC verison ="1.0">
+    <qresource  prefix="/">
+        <file>PA.png</file>
+        <file>PD.png</file>
+
+    </qresource>
+</RCC>
+
+
+
